@@ -10,3 +10,4 @@ const randomString = require('shortid');
 
 const a = randomString.generate();
 console.log(a);
+
